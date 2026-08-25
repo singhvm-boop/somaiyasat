@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://singhvm-boop.github.io/somaiyasat/sitemap.xml
